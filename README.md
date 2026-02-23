@@ -50,9 +50,6 @@ The dataset includes the following CSV tables:
 
 ---
 
-## How to Run (VS Code / Windows)
-```bash
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-python -m src.run_all
+#Author
+
+##Fseha Kahsay
