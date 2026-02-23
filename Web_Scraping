@@ -1,0 +1,8 @@
+#//
+ In this mini-course, you will be assuming the role of a Data Scientist / Data Analyst. In this role, you will be given a scenario and data to begin your Python project. During this process, you will perform specific tasks such as extracting data, web scraping, visualizing data, and creating a dashboard. You will then submit your Python notebook for AI grading and evaluation.  
+//#
+#%%
+Import pandas as Pd
+
+#%%
+

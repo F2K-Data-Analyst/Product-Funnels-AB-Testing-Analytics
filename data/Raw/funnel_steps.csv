@@ -1,0 +1,6 @@
+funnel_step_id,funnel_id,step_order,name,expected_event_name,extra_filter_json
+1,1,1,Signup Completed,signup_completed,"{""page_url"":""/signup""}"
+2,1,2,View Dashboard,view_dashboard,"{""page_url"":""/dashboard""}"
+3,1,3,Create Report,create_report,"{""page_url"":""/reports""}"
+4,2,1,Start Checkout,start_checkout,"{""page_url"":""/billing""}"
+5,2,2,Complete Payment,complete_payment,"{""page_url"":""/billing""}"
