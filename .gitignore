@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 notepad .gitignore
 .venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+=======
+>>>>>>> e7237e8031dd369588c3ef26d8c8afa8e5524d47
 

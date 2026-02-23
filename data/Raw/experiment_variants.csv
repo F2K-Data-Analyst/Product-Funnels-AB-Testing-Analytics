@@ -1,3 +1,0 @@
-variant_id,experiment_id,name,description,allocation_percentage
-1,1,control,Current pricing page,50.0
-2,1,treatment,New pricing layout,50.0
