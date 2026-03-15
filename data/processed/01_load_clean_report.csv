@@ -1,0 +1,12 @@
+table,rows,cols,notes
+devices,0,0,missing or empty
+error_events,0,0,missing or empty
+experiment_assignments,0,0,missing or empty
+experiment_variants,0,0,missing or empty
+experiments,0,0,missing or empty
+funnel_steps,0,0,missing or empty
+funnels,0,0,missing or empty
+products,0,0,missing or empty
+purchases,0,0,missing or empty
+sessions,0,0,missing or empty
+users,0,0,missing or empty
