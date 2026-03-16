@@ -8,3 +8,7 @@ def conversion_test(success_a, total_a, success_b, total_b):
 
     stat, pval = proportions_ztest(count, nobs)
     return stat, pval
+# %%
+"""git add .
+git commit -m "describe what you chnaged"
+git push"""
