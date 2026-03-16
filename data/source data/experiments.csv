@@ -1,0 +1,2 @@
+experiment_id,name,description,start_date,end_date,primary_metric,status
+1,New Pricing Page Layout,Test new pricing design vs control,2025-01-01,2025-01-31,purchase_conversion,completed
